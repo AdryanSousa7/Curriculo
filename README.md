@@ -75,7 +75,7 @@ Curriculo/ ├── index.html
 ## 🔗 Links
 
 - **Repositório GitHub:** [Currículo - Adryan Sousa Medeiros](https://github.com/AdryanSousa7/Curriculo.git)  
-- **Deploy:** 
+- **Deploy (Azure Static Web App):** [Visualizar Currículo Online](https://witty-flower-02e268910.6.azurestaticapps.net)     
 
 ---
 
